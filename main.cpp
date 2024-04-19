@@ -3,6 +3,7 @@
 using namespace std;
 
 const int dimensioneMax=100;
+const int doubleDimensioneMax=dimensioneMax*2;
 
 //prototipi
 void caricaVettori(string v[], string v2[], int n);

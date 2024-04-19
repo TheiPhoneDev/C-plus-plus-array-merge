@@ -18,7 +18,7 @@ int main() {
   int scelta;
   string a[dimensioneMax];
   string b[dimensioneMax];
-  string c[dimensioneMax];
+  string c[doubleDimensioneMax];
 
   do {
     scelta=Menu();
